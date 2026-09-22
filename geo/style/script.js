@@ -15,7 +15,7 @@ const map = document.getElementById("map");
 const mapFrame = document.getElementById("mapFrame");
 
 // Google Maps Embed API key
-const googleMapsApiKey = "AIzaSyCUrXltBNrIPML-9uX-OeHpo6ZPVHs8Zf4";
+const googleMapsApiKey = "";
 
 /*
 LOAD ALL CENSUS BENCHMARKS
